@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Library Management System/src"/>
+	<classpathentry kind="src" path="Library Use System/src"/>
+	<classpathentry kind="lib" path="Library Management System/lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Library Management System/lib/mariadb-java-client-2.3.0.jar"/>
+	<classpathentry kind="lib" path="Library Management System/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="Library Management System/lib/poi-3.16.jar"/>
+	<classpathentry kind="output" path="Library Management System/bin"/>
+</classpath>
