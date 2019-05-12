@@ -1,6 +1,6 @@
 # lms_project
 도서관리프로그램
-<ul>
+	<ul>
 		<h2>개발환경</h2>
 		<li>oralce DB</li>
 		<li>javaSE</li>
@@ -20,11 +20,11 @@
 				</ul>
 			</td>
 		</tr>
-
 		<tr>
 			<td><img
 				src="https://postfiles.pstatic.net/MjAxOTA1MTNfMjY5/MDAxNTU3Njc3NzE4MjMx.-p7p6rbMUMFiY4-l6tMazO2QdkKjiJP4UYiLtoDiMCcg.YvzS0gwENO_sjTTJM2c_0He6-YABosf8vhodhOdB2qEg.PNG.qwea8501/lms_%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%B0%BD.png?type=w773" />
-			
+				<img
+				src="https://postfiles.pstatic.net/MjAxOTA1MTNfMjAz/MDAxNTU3Njc3NzE4NTAz._aSDBgCLQwJ6NdrKowgmPIfRKVCvPdAtw_sU9Z1eRegg.I-zNwynwEmYL2ECVUXDOenYwwT7tML5Gbmk0_kF-awUg.PNG.qwea8501/lms_%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85.png?type=w773" />
 			</td>
 			<td>
 				<ul>
@@ -34,7 +34,6 @@
 				</ul>
 			</td>
 		</tr>
-
 		<tr>
 			<td><img
 				src="https://postfiles.pstatic.net/MjAxOTA1MTNfMjg3/MDAxNTU3Njc3NzE4NDQ0.a54KJaoPTQ9teqEbXhujIUqTpLJvC_rgMwMlCK-bldgg.29uZj9iiwk1C8wyEOk0Jf2HZnPowPu5rmJ5YcvDANMIg.PNG.qwea8501/lms_%ED%9A%8C%EC%9B%90%EA%B4%80%EB%A6%AC.png?type=w773" /></td>
@@ -45,7 +44,4 @@
 				</ul>
 			</td>
 		</tr>
-
-
 	</table>
-
